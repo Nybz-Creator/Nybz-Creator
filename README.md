@@ -1,4 +1,4 @@
-### Hi everyone! My name is Alex and I'm currently studying to be network technichian.
+### Hi everyone! My name is Alex and I'm currently studying to be a network technichian.
 
 <!--
 **Nybz-Creator/Nybz-Creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
